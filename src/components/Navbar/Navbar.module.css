@@ -1,0 +1,6 @@
+.nav {
+    grid-area: nav;
+    background-color: coral;
+    color: darkorchid;
+    width: 140px;
+}
